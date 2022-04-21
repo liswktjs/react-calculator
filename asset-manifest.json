@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liswktjs/react-calculator/static/css/main.3fbb1410.css",
+    "main.js": "/liswktjs/react-calculator/static/js/main.fd6a8361.js",
+    "index.html": "/liswktjs/react-calculator/index.html",
+    "main.3fbb1410.css.map": "/liswktjs/react-calculator/static/css/main.3fbb1410.css.map",
+    "main.fd6a8361.js.map": "/liswktjs/react-calculator/static/js/main.fd6a8361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fbb1410.css",
+    "static/js/main.fd6a8361.js"
+  ]
+}
